@@ -1,0 +1,55 @@
+version: '3.8'
+services:
+  influxdb:
+    image: 'influxdb:1.8.9-alpine'
+    container_name: influxdb
+    restart: always
+    ports: 
+      - '8086:8086'
+    networks:
+      - monitoring
+    environment:
+      - INFLUXDB_DB=jmeter
+    volumes:
+      - influxdb-storage:/var/lib/influxdb
+    
+  grafana:
+    build:
+      context: ./grafana
+    image: 'grafana:8.1.0'
+    container_name: grafana
+    ports:
+      - '3000:3000'
+    restart: always
+    networks: 
+      - monitoring
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=grafana
+      - GF_INSTALL_PLUGINS=grafana-clock-panel,briangann-gauge-panel,natel-plotly-panel,grafana-simple-json-datasource
+    volumes:
+      - grafana-volume:/etc/grafana/provisioning
+      - grafana-data:/var/lib/grafana
+    depends_on: 
+      - influxdb
+
+  jmeter:
+    build:
+      context: ./jmeter
+    image: 'jmeter-docker:latest'
+    container_name: jmeter
+    restart: always
+    networks:
+      - monitoring
+    volumes:
+      - ./jmeter:/results
+    depends_on: 
+      - influxdb
+      - grafana
+
+networks:
+  monitoring:
+volumes:
+  influxdb-storage:
+  grafana-data:
+  grafana-volume:
