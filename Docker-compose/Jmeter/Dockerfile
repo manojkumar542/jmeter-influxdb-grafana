@@ -38,8 +38,8 @@ RUN ln -nfs /usr/bin/python3 /usr/bin/python
 
 # copy jmeter script files and any dependency files such as data and libraries
 
-COPY FM_INT_Login.jmx /FM_INT_Login.jmx
-COPY Data.csv /Data.csv
+COPY PetStoreDemo.jmx /PetStoreDemo.jmx
+COPY userdetails.csv /userdetails.csv
 
 # shell script has script to convert Jmeter JTL results file to CSV
 COPY run.sh /run.sh
