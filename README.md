@@ -8,9 +8,9 @@
 
 Setup as below
 
-run **docker-compose build**
-**docker-compose up -d**
-**docker-compose down**
+* run **docker-compose build**
+* **docker-compose up -d**
+* **docker-compose down**
 
 <!-- wp:paragraph -->
 <p>With a single <strong>docker-compose up -d </strong>command we can setup our jmeter execution and monitor the live results in grafana and saves the raw and html report of the jmeter execution in your host machine</p>
