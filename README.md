@@ -6,4 +6,4 @@
 * Update the docker compose file according to your need.
 * Use docker container name to establish connection between containers.
 
-![Docker-Compose output](https://github.com/manojkumar542/Monitoringtoolkit/blob/Update/Docker-compose.JPG)
+For more details follow my ![blog](https://performanceengineeringsite.wordpress.com/2021/01/22/easy-setup-to-dockerize-jmeter-monitoring-solution/) 
