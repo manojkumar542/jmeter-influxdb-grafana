@@ -6,8 +6,9 @@
 * Update the docker compose file according to your need.
 * Use docker container name to establish connection between containers.
 
+
+For more details follow my blogs
 https://performanceengineeringsite.wordpress.com/2021/01/22/easy-setup-to-dockerize-jmeter-monitoring-solution/
 https://performanceengineeringsite.wordpress.com/2020/09/11/run-jmeter-in-docker-and-save-results-in-csv/
 https://performanceengineeringsite.wordpress.com/2020/02/01/setup-jmeter-in-linux-docker-container-with-all-plugins/
-
-For more details follow my ![blog](https://performanceengineeringsite.wordpress.com/2021/01/22/easy-setup-to-dockerize-jmeter-monitoring-solution/) 
+![monitoring setup](https://performanceengineeringsite.wordpress.com/2021/01/22/easy-setup-to-dockerize-jmeter-monitoring-solution/) 
