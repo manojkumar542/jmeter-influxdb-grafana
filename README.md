@@ -5,13 +5,13 @@
 * Update the jmeter dockerfile accordingly based on your requirement 
 * Update the docker compose file according to your need.
 * Use docker container name to establish connection between containers.
-https://wp.me/p7eHc4-w3
+
 Setup as below
 
 * run **docker-compose build**
 * **docker-compose up -d**
 * **docker-compose down**
-
+* https://wp.me/p7eHc4-w3
 <!-- wp:paragraph -->
 <p>With a single <strong>docker-compose up -d </strong>command we can setup our jmeter execution and monitor the live results in grafana and saves the raw and html report of the jmeter execution in your host machine</p>
 <!-- /wp:paragraph -->
