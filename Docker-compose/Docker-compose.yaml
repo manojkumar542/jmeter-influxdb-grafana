@@ -42,7 +42,7 @@ services:
     networks:
       - monitoring
     volumes:
-      - ./jmeter:/results
+      - ./jmeter/output:/results/output
     depends_on: 
       - influxdb
       - grafana
