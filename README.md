@@ -5,7 +5,7 @@
 * Update the jmeter dockerfile accordingly based on your requirement 
 * Update the docker compose file according to your need.
 * Use docker container name to establish connection between containers.
-
+https://wp.me/p7eHc4-w3
 Setup as below
 
 * run **docker-compose build**
