@@ -231,4 +231,4 @@ For more details follow my blogs
 * https://perfdevops.wordpress.com/2021/01/22/easy-setup-to-dockerize-jmeter-monitoring-solution/
 * https://perfdevops.wordpress.com/2020/09/11/run-jmeter-in-docker-and-save-results-in-csv/
 * https://perfdevops.wordpress.com/2020/02/01/setup-jmeter-in-linux-docker-container-with-all-plugins/
-* ![monitoring setup](https://perfdevops.wordpress.com/2021/01/22/easy-setup-to-dockerize-jmeter-monitoring-solution/) 
+* [monitoring setup](https://perfdevops.wordpress.com/2021/01/22/easy-setup-to-dockerize-jmeter-monitoring-solution/) 
