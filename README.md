@@ -21,7 +21,7 @@ Setup as below
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>For setting up only jmeter docker image please refer the below links</strong> <a href="https://performanceengineeringsite.wordpress.com/2020/02/01/setup-jmeter-in-linux-docker-container-with-all-plugins/">https://performanceengineeringsite.wordpress.com/2020/02/01/setup-jmeter-in-linux-docker-container-with-all-plugins/</a> </p>
+<p><strong>For setting up only jmeter docker image please refer the below links</strong> <a href="https://perfdevops.wordpress.com/2020/02/01/setup-jmeter-in-linux-docker-container-with-all-plugins/">https://perfdevops.wordpress.com/2020/02/01/setup-jmeter-in-linux-docker-container-with-all-plugins/</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -196,35 +196,35 @@ depends_on - make sure services in the section specified will be starting and ru
 <!-- /wp:syntaxhighlighter/code -->
 
 <!-- wp:image {"id":2049,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://performanceengineeringsite.files.wordpress.com/2021/09/image-7.png?w=1024" alt="" class="wp-image-2049"/></figure>
+<figure class="wp-block-image size-large"><img src="https://perfdevops.files.wordpress.com/2021/09/image-7.png?w=1024" alt="" class="wp-image-2049"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2037,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://performanceengineeringsite.files.wordpress.com/2021/09/image.png?w=1024" alt="" class="wp-image-2037"/></figure>
+<figure class="wp-block-image size-large"><img src="https://perfdevops.files.wordpress.com/2021/09/image.png?w=1024" alt="" class="wp-image-2037"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2042,"width":654,"height":296,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://performanceengineeringsite.files.wordpress.com/2021/09/image-2.png?w=1024" alt="" class="wp-image-2042" width="654" height="296"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://perfdevops.files.wordpress.com/2021/09/image-2.png?w=1024" alt="" class="wp-image-2042" width="654" height="296"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2053,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://performanceengineeringsite.files.wordpress.com/2021/09/image-9.png?w=1024" alt="" class="wp-image-2053"/></figure>
+<figure class="wp-block-image size-large"><img src="https://perfdevops.files.wordpress.com/2021/09/image-9.png?w=1024" alt="" class="wp-image-2053"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2044,"width":654,"height":443,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://performanceengineeringsite.files.wordpress.com/2021/09/image-4.png?w=1024" alt="" class="wp-image-2044" width="654" height="443"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://perfdevops.files.wordpress.com/2021/09/image-4.png?w=1024" alt="" class="wp-image-2044" width="654" height="443"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2055,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://performanceengineeringsite.files.wordpress.com/2021/09/image-10.png?w=1024" alt="" class="wp-image-2055"/></figure>
+<figure class="wp-block-image size-large"><img src="https://perfevops.files.wordpress.com/2021/09/image-10.png?w=1024" alt="" class="wp-image-2055"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2056,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://performanceengineeringsite.files.wordpress.com/2021/09/jpetstore_grafana.jpg?w=1024" alt="" class="wp-image-2056"/></figure>
+<figure class="wp-block-image size-large"><img src="https://perfdevops.files.wordpress.com/2021/09/jpetstore_grafana.jpg?w=1024" alt="" class="wp-image-2056"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2045,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://performanceengineeringsite.files.wordpress.com/2021/09/image-5.png?w=654" alt="" class="wp-image-2045"/></figure>
+<figure class="wp-block-image size-large"><img src="https://perfdevops.files.wordpress.com/2021/09/image-5.png?w=654" alt="" class="wp-image-2045"/></figure>
 <!-- /wp:image -->
 
 For more details follow my blogs
