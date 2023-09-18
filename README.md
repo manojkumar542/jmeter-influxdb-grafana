@@ -21,7 +21,7 @@ Setup as below
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>For setting up only jmeter docker image please refer the below links</strong> <a href="https://perfdevops.wordpress.com/2020/02/01/setup-jmeter-in-linux-docker-container-with-all-plugins/">https://perfdevops.wordpress.com/2020/02/01/setup-jmeter-in-linux-docker-container-with-all-plugins/</a> </p>
+<p><strong>For setting up only jmeter docker image please refer the below links</strong> <a href="https://perfdevops.wordpress.com/2020/02/01/setup-jmeter-in-linux-docker-container-with-all-plugins/">https://sreinsights.wordpress.com/2020/02/01/setup-jmeter-in-linux-docker-container-with-all-plugins/</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
